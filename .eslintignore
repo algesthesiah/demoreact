@@ -1,0 +1,11 @@
+*.sh
+node_modules
+*.woff
+*.ttf
+.vscode
+.idea
+.husky
+.local
+dist
+public
+publicTypescript/manifest.json
